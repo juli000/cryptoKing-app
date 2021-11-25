@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# CryptoKing Crypto Info 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Simple React Application using Redux, Ant Design, Axios, and Chart.js
 
-## Available Scripts
+![Screen Shot 2021-11-24 at 11 53 26 PM](https://user-images.githubusercontent.com/24624365/143385876-e5235f4f-2398-4d9b-86da-96045f722e1f.png)
 
-In the project directory, you can run:
+## Top 100 cryptocurrencies according to market cap
 
-### `npm start`
+![Screen Shot 2021-11-24 at 11 53 42 PM](https://user-images.githubusercontent.com/24624365/143385875-64db9562-7e70-46b1-b441-ea3dffc1224e.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Able to view recent price history on each coin
+<img width="600" alt="Screen Shot 2021-11-24 at 11 52 38 PM" src="https://user-images.githubusercontent.com/24624365/143385881-bc0956fe-771c-4bf2-9182-a36683e07c11.png">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Top 50 Exchanges according to recent trade volume
 
-### `npm test`
+![Screen Shot 2021-11-25 at 12 29 24 AM](https://user-images.githubusercontent.com/24624365/143385741-1d4a2309-e17a-453f-8756-b02c2e09c0e3.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Cryptocurrency related News 
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screen Shot 2021-11-25 at 12 29 41 AM](https://user-images.githubusercontent.com/24624365/143385809-bda4fe8d-eef8-4c79-acda-830192f3164c.png)
