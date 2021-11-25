@@ -26,10 +26,9 @@ const Exchanges = () => {
       <Row>
         {exchangesList.map((exchange) => (
           <Col span={24}>
-            <Collapse>
               <Panel
                 key={exchange.id}
-                showArrow={true}
+                showArrow={false}
                 header={(
                   <Row key={exchange.id}>
                     <Col span={6}>
@@ -45,7 +44,6 @@ const Exchanges = () => {
               >
                 {HTMLReactParser(exchange.description || '')}
               </Panel>
-            </Collapse>
           </Col>
         ))}
       </Row>
